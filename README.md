@@ -74,5 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### ScreenShots
 
-https://github.com/Risihikesh/Task-Management-app/issues/1#issue-1912155844
+![Capture](https://github.com/Risihikesh/Task-Management-app/assets/78144182/a8e96caa-89e6-409a-92a2-6a06dc8795b1)
+
 
